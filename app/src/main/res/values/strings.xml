@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOT</string>
+    <string-array name="kandang">
+        <item>Pilih No Kandang</item>
+        <item>No 1</item>
+        <item>No 2</item>
+        <item>No 3</item>
+        <item>No 4</item>
+    </string-array>
+</resources>
